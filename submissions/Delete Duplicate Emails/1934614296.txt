@@ -1,0 +1,10 @@
+# Title: Delete Duplicate Emails
+# Submission ID: 1934614296
+# Status: Internal Error
+# Date: 1 March 2026 at 03:32:28 pm IST
+
+DELETE p1
+FROM person p1
+JOIN person p2
+ON p1.email = p2.email
+AND p1.id > p2.id;
