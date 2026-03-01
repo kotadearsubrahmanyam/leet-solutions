@@ -1,0 +1,15 @@
+# Title: Customers Who Never Order
+# Submission ID: 1934610561
+# Status: Accepted
+# Date: 1 March 2026 at 03:27:04 pm IST
+
+# Write your MySQL query statement below
+
+select 
+c.name as customers
+from 
+customers c
+left join 
+orders o 
+on c.id = o.customerId
+where o.customerId is null;
