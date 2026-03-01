@@ -1,0 +1,9 @@
+# Title: Duplicate Emails
+# Submission ID: 1934605676
+# Status: Accepted
+# Date: 1 March 2026 at 03:19:53 pm IST
+
+SELECT email
+FROM person
+GROUP BY email
+HAVING COUNT(*) > 1;
