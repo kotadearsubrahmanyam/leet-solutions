@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/kotadearsubrahmanyam/leet-solutions/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
